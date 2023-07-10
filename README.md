@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Maaz_mk)
 <!--
 **maazkhan101/maazkhan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
