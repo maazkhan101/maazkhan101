@@ -1,7 +1,15 @@
 ### Hi there 👋
 ![](https://leetcard.jacoblin.cool/Maaz_mk?theme=light,unicorn)
 
-<p align="center">
+
+
+<p align="left">
+  <a href="https://github.com/maazkhan101?tab=repositories">
+    <img title="Maaz's Github Stats" alt="Maaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maazkhan101&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+  </a>
+</p>
+  
+<p align="left">
   <a href="https://github.com/maazkhan101#user-activity-overview">
     <img title="Maaz's Github Streak" alt="Maaz's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maazkhan101" />
   </a>
