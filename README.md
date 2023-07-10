@@ -1,6 +1,15 @@
 ### Hi there 👋
 ![](https://leetcard.jacoblin.cool/Maaz_mk?theme=light,unicorn)
+
+<p align="center">
+  <a href="https://github.com/maazkhan101?tab=repositories">
+    <img title="maazkhan101's Github Stats" alt="maazkhan101's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maazkhan101&show_icons=true&count_private=true&include_all_commits=false&custom_title=GitHub%20Stats" />
+  </a>
+</p>
+
+
 <!--
+
 **maazkhan101/maazkhan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
