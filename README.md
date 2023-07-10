@@ -1,29 +1,20 @@
 ### Hi there 👋
-![](https://leetcard.jacoblin.cool/Maaz_mk?theme=light,unicorn)
 
 
+I'm [Maaz Khan](https://github.com/maazkhan101).
 
-
-  
-<p align="left">
-  <a href="https://github.com/maazkhan101#user-activity-overview">
-    <img title="Maaz's Github Streak" alt="Maaz's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maazkhan101" />
-  </a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Bibliophile;Always%20learning%20new%20things;Evolving;Perfecting&center=true&width=500&height=50"></a>
 </p>
 
 
-<!--
 
-**maazkhan101/maazkhan101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m a Computer Science Undergrad from VIT Vellore
+- 📫 How to reach me: maazkhancode@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![](https://leetcard.jacoblin.cool/Maaz_mk?theme=light,unicorn)
+
+
