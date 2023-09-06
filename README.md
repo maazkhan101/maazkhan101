@@ -16,7 +16,7 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 </br>
 </br>
 
-- 🌱 I’m a Computer Science Undergrad from VIT Vellore.
+
 - 📫 How to reach me: maazkhancode@gmail.com
 
 </br>
