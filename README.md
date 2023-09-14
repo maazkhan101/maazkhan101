@@ -28,3 +28,14 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 ![](https://leetcard.jacoblin.cool/Maaz_mk?theme=light,unicorn)
 
 
+</br>
+</br>
+</br>
+
+
+</h3>
+<p align="center">
+<img src="https://profile-counter.glitch.me/maazkhan101/count.svg"></p>
+<p>
+
+
