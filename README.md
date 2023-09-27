@@ -16,6 +16,13 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 </br>
 </br>
 
+| <a href="https://github.com/maazkhan101/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=maazkhan101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maaz's github stats" /></a> | <a href="https://github.com/maazkhan101/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maazkhan101&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+
+</br>
+</br>
+</br>
+
 
 - 📫 How to reach me: maazkhancode@gmail.com
 
