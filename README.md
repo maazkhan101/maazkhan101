@@ -42,12 +42,6 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 
 
 
-![](https://github-profile-trophy.vercel.app/?username=maazkhan101&theme=dark&no-frame=false&no-bg=true&margin-w=8)
-
-
-</br>
-</br>
-</br>
 
 
 
