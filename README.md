@@ -36,22 +36,20 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 </br>
 
 
-![](https://leetcard.jacoblin.cool/Maaz_mk?theme=light,unicorn)
 
 
 </br>
 </br>
 </br>
 
-</br>
-</br>
-</br>
 
 
 
 
-
-<img src="https://komarev.com/ghpvc/?maazkhan101=your-github-maazkhan101&style=flat-square&color=blue" alt=""/>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/maazkhan101/count.svg" />
+</p>
 
 
 
