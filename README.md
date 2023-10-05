@@ -46,10 +46,6 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 
 
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/maazkhan101/count.svg" />
-</p>
 
 
 
