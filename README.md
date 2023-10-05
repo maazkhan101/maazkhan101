@@ -51,7 +51,7 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 
 
 
-
+<img src="https://komarev.com/ghpvc/?maazkhan101=your-github-maazkhan101&style=flat-square&color=blue" alt=""/>
 
 
 
