@@ -28,7 +28,7 @@ I'm [Maaz Khan](https://github.com/maazkhan101).
 </br>
 
 
-[![@Maaz's Holopin board](https://holopin.me/maazkhan101)](https://holopin.io/@maazkhan101)
+
 
 
 </br>
